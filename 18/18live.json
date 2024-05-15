@@ -26,62 +26,6 @@
     {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["理论片"]},
     {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"]},
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "ext": "1"
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.309
-      }
-    },
-    {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "18A貓",
-      "name": "18A貓",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://usercontent.githubfast.com/raw/FongMi/CatVodOpen/main/open/18a_open.js",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
-    },
-    {
       "key": "MissAV",
       "name": "MissAV",
       "type": 3,
@@ -94,84 +38,8 @@
       }
     },
     {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.68
-      }
-    },
-    {
-      "key": "zmcj88.com",
-      "name": "成人01",
-      "type": 0,
-      "api": "http://zmcj88.com/sapi?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "key": "jcspcj8.com",
-      "name": "成人02",
-      "type": 0,
-      "api": "http://jcspcj8.com/api?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "key": "madouse.la",
-      "name": "成人03",
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "key": "99zywcj.com",
-      "name": "成人04",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
-    },
-    {
       "key": "wmcj8.com",
-      "name": "成人05",
+      "name": "成人01",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "searchable": 1,
@@ -187,7 +55,7 @@
     },
     {
       "key": "apilj.com",
-      "name": "成人06",
+      "name": "成人02",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -202,40 +70,8 @@
       }
     },
     {
-      "key": "91md.me",
-      "name": "成人07",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "key": "cjmygzy.com",
-      "name": "成人08",
-      "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
-    },
-    {
       "key": "dadiapi.com",
-      "name": "成人09",
+      "name": "成人03",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
